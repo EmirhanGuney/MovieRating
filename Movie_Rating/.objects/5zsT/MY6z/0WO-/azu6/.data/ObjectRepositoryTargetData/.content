@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qkGKNiwy50qU_3DJfIqSeA" Reference="-KfSRVj7dUqoUYR_Mg4B-g/azu6Yv66YkehfLqlGmofwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.imdb.com/find/?q=end%20game&amp;ref_=nv_sr_sm" CVScreenId="dc2501dd-4a78-4e32-a070-f04087440687" CvTextArea="290, 904, 95, 18" CvTextArgument="End Game" CvType="Text" DesignTimeRectangle="292, 902, 882, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='button' class='ipc-metadata-list-summary-item__t' parentid='__next' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' class='ipc-metadata-list-summary-item__t' parentid='__next' tag='A' type='' aaname='End Game' check:innerText='End Game' /&gt;" Guid="c5219440-f6f6-404a-ab70-29b37f1018f0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find - IMDb' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="dc2501dd-4a78-4e32-a070-f04087440687" CvTextArea="201, 784, 105, 35" CvTextArgument="Titles" CvType="Text" DesignTimeRectangle="189, 777, 118, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='ipc-title__text' aaname='Titles' check:innerText='Titles' /&gt;" Guid="05d57174-fb0e-407f-a7ef-054faa66ca95" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="452bdbc154b3f00af0413a033fa90e1e.png" xmlns="">0IGNthdwuiky1KAj6pWP-Dw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

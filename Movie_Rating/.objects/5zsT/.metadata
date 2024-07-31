@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Yeni Sekme",
+  "Type": "App",
+  "Id": "5zsTQpO1kEumDb1yRdk1xw",
+  "Reference": "-KfSRVj7dUqoUYR_Mg4B-g/5zsTQpO1kEumDb1yRdk1xw",
+  "Created": "2024-07-26T13:26:33.1394347Z",
+  "Updated": "2024-07-26T13:26:33.1394347Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

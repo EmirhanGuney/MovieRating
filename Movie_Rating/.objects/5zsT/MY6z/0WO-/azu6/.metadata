@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click Movie",
+  "Type": "Element",
+  "Id": "azu6Yv66YkehfLqlGmofwA",
+  "Reference": "-KfSRVj7dUqoUYR_Mg4B-g/azu6Yv66YkehfLqlGmofwA",
+  "ParentRef": "-KfSRVj7dUqoUYR_Mg4B-g/0WO-Nxvxp0Omn1jMsJRoYg",
+  "Created": "2024-07-26T13:26:33.6081525Z",
+  "Updated": "2024-07-26T13:26:33.6081525Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
